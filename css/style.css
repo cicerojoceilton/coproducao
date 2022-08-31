@@ -52,3 +52,13 @@ body {
        -webkit-text-stroke-width: 1px;
        -webkit-text-stroke-color: #000;
 }
+
+.modal h1 {
+	font-size: 20px;
+	font-weight: 700;
+}
+
+.modal p {
+	font-size: 12px;
+	font-weight: 300;
+}
