@@ -65,6 +65,6 @@ body {
 
 @media (max-width: 767px) {
     .modal-body {
-        padding: 0 20px;
+        padding: 0 30px;
      }
 })
