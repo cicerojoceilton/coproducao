@@ -64,7 +64,7 @@ body {
 }
 
 @media (max-width: 767px) {
-    .modal {
+    .modal-body {
         background-color: #f00;
      }
 })
