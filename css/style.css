@@ -53,18 +53,18 @@ body {
        -webkit-text-stroke-color: #000;
 }
 
-.modal h1 {
+.modal-body h1 {
 	font-size: 20px;
 	font-weight: 700;
 }
 
-.modal p {
+.modal-body p {
 	font-size: 12px;
 	font-weight: 300;
 }
 
 @media (max-width: 767px) {
     .modal-body {
-        background-color: #f00;
+        padding: 0 20px;
      }
 })
